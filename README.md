@@ -16,4 +16,4 @@ To further improve on this other architectures of Deep Q Learning were implement
 
 ![Deep Q Learning Graph](./images/plot1.png)
 
-Obtained Average Score of 15.5/21.0 and best score of 20.0/21.0 in just 250 games
+Obtained Average Score of 15.3/21.0 and best score of 20.0/21.0 in just 250 games
